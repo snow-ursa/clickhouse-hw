@@ -1,0 +1,14 @@
+<clickhouse>
+    <macros>
+
+        <shard>01</shard>
+        <replica>ch1</replica>
+
+        <all_replicated_shard>01</all_replicated_shard>
+        <all_replicated_replica>ch1</all_replicated_replica>
+
+        <all_sharded_shard>01</all_sharded_shard>
+        <all_sharded_replica>ch1</all_sharded_replica>
+
+    </macros>
+</clickhouse>
