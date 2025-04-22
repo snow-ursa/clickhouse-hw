@@ -1,0 +1,112 @@
+[
+    {
+        "flight_id": 13113,
+        "flight_no": "PG0612",
+        "scheduled_departure": "2017-08-18 13:25:00",
+        "scheduled_arrival": "2017-08-18 17:05:00",
+        "departure_airport": "ROV",
+        "arrival_airport": "KZN",
+        "status": "Scheduled",
+        "aircraft_code": "CN1"
+    },
+    {
+        "flight_id": 12012,
+        "flight_no": "PG0621",
+        "scheduled_departure": "2017-08-26 13:05:00",
+        "scheduled_arrival": "2017-08-26 14:00:00",
+        "departure_airport": "KZN",
+        "arrival_airport": "MQF",
+        "status": "Scheduled",
+        "aircraft_code": "CR2"
+    },
+    {
+        "flight_id": 11847,
+        "flight_no": "PG0498",
+        "scheduled_departure": "2017-09-12 07:15:00",
+        "scheduled_arrival": "2017-09-12 11:55:00",
+        "departure_airport": "KZN",
+        "arrival_airport": "IK ",
+        "status": "Scheduled",
+        "aircraft_code": "319"
+    },
+    {
+        "flight_id": 11085,
+        "flight_no": "PG0569",
+        "scheduled_departure": "2017-08-24 12:05:00",
+        "scheduled_arrival": "2017-08-24 13:10:00",
+        "departure_airport": "SVX",
+        "arrival_airport": "SCW",
+        "status": "Scheduled",
+        "aircraft_code": "733"
+    },
+    {
+        "flight_id": 9478,
+        "flight_no": "PG0360",
+        "scheduled_departure": "2017-08-28 06:00:00",
+        "scheduled_arrival": "2017-08-28 08:35:00",
+        "departure_airport": "LED",
+        "arrival_airport": "REN",
+        "status": "Scheduled",
+        "aircraft_code": "CR2"
+    },
+    {
+        "flight_id": 7784,
+        "flight_no": "PG0667",
+        "scheduled_departure": "2017-09-10 12:00:00",
+        "scheduled_arrival": "2017-09-10 14:30:00",
+        "departure_airport": "SVO",
+        "arrival_airport": "KRO",
+        "status": "Scheduled",
+        "aircraft_code": "CR2"
+    },
+    {
+        "flight_id": 6938,
+        "flight_no": "PG0461",
+        "scheduled_departure": "2017-09-04 09:25:00",
+        "scheduled_arrival": "2017-09-04 10:20:00",
+        "departure_airport": "SVO",
+        "arrival_airport": "ULV",
+        "status": "Scheduled",
+        "aircraft_code": "SU9"
+    },
+    {
+        "flight_id": 5502,
+        "flight_no": "PG0529",
+        "scheduled_departure": "2017-09-12 06:50:00",
+        "scheduled_arrival": "2017-09-12 08:20:00",
+        "departure_airport": "SVO",
+        "arrival_airport": "UFA",
+        "status": "Scheduled",
+        "aircraft_code": "763"
+    },
+    {
+        "flight_id": 4739,
+        "flight_no": "PG0561",
+        "scheduled_departure": "2017-09-05 09:30:00",
+        "scheduled_arrival": "2017-09-05 11:15:00",
+        "departure_airport": "VKO",
+        "arrival_airport": "AER",
+        "status": "Scheduled",
+        "aircraft_code": "763"
+    },
+    {
+        "flight_id": 3979,
+        "flight_no": "PG0052",
+        "scheduled_departure": "2017-08-25 11:50:00",
+        "scheduled_arrival": "2017-08-25 14:35:00",
+        "departure_airport": "VKO",
+        "arrival_airport": "HMA",
+        "status": "Scheduled",
+        "aircraft_code": "CR2"
+    },
+    {
+        "flight_id": 1185,
+        "flight_no": "PG0134",
+        "scheduled_departure": "2017-09-10 06:50:00",
+        "scheduled_arrival": "2017-09-10 11:55:00",
+        "departure_airport": "DME",
+        "arrival_airport": "B K",
+        "status": "Scheduled",
+        "aircraft_code": "319"
+    }
+]
